@@ -9974,7 +9974,7 @@ h6,
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border-radius: 60px;
-  background: #ee0022;
+  background: #ee0022  ;
 }
 
 .contact-form .help-block ul {
